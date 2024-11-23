@@ -3,7 +3,7 @@ This repository contains the source code and documentation for a Library Managem
 - 🔗**Link** - https://library-mern.onrender.com
 
 ## Introduction
-The Library Management System is a web application built using the MERN stack (MongoDB, Express.js, React.js, and Node.js). It aims to streamline and enhance the management of books, patrons, and administrative tasks within a library setting.
+The Library Management System is a web application built using the MERN stack (MongoDB, Express.js, React.js, and Node.js). It aims to streamline and enhance the management of **books**, patrons, and administrative tasks within a library setting.
 
 ## Features
 - ✨ **User Roles and Access Management:** Implementing user roles (Patron, Librarian, and Admin) and managing access to different functionalities based on those roles.
